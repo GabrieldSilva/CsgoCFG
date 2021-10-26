@@ -511,4 +511,4 @@ xbox_throttlespoof "200"
 zoom_sensitivity_ratio_joystick "1.0"
 zoom_sensitivity_ratio_mouse "1.0"
 
-echo Boa animal tua cfg ta funcionando
+echo Boa tua cfg ta funcionando
